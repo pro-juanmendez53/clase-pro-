@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\bin\Debug\net7.0\EjerTAREA.exe
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\bin\Debug\net7.0\EjerTAREA.deps.json
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\bin\Debug\net7.0\EjerTAREA.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\bin\Debug\net7.0\EjerTAREA.dll
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\bin\Debug\net7.0\EjerTAREA.pdb
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.dll
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\refint\EjerTAREA.dll
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.pdb
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\EjerTAREA.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\TAREA\EjerTAREA\EjerTAREA\obj\Debug\net7.0\ref\EjerTAREA.dll
