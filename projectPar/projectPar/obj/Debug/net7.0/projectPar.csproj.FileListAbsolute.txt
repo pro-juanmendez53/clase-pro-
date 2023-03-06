@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\bin\Debug\net7.0\projectPar.exe
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\bin\Debug\net7.0\projectPar.deps.json
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\bin\Debug\net7.0\projectPar.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\bin\Debug\net7.0\projectPar.dll
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\bin\Debug\net7.0\projectPar.pdb
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.dll
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\refint\projectPar.dll
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.pdb
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\projectPar.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\Prueba\projectPar\projectPar\obj\Debug\net7.0\ref\projectPar.dll
